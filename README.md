@@ -1,1 +1,1 @@
-# rock-papper-scissors
+A Rock Paper Scissors game on the browser!
